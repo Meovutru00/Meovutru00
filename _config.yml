@@ -1,1 +1,15 @@
-theme: jekyll-theme-merlot
+const CONFIC = {
+    introtitle: 'Tên bạn à!',
+    introDesc: 'Neu ban duoc minh gui cho
+    cai nay thi nhat ban roi',
+    btnIntro: 'muhahahaha',
+    tittle: 'pov you are my boo=))',
+    desc: 'ban se bo tien ra de cho minh an mot bua buffet',
+    btnYes: 'tat nhien roi:3',
+    btnNo: 'coooooooo',
+    question: ' Tren the gioi co 7 ti nguoi nhung to chi muon dua cau di an?',
+    btnReply: 'dung roi vi cau la so 1',
+    reply: 'khong',
+    mess: 'Noi chung la to van thich cau=))',
+    messDesc: 'ce love u',
+    btnAccept: '=))',
